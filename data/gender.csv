@@ -6,16 +6,14 @@ name,source,gender,wikidata,type
 "Doña Leonila Street",wikidata,F,Q3547438,way
 "Doña Luz Street",wikidata,F,Q6706526,way
 "Doña Trinidad Street",wikidata,F,Q7842403,way
+"A. Mabini Street",wikidata,M,Q318481;Q4120230,way
 "Andres Bonifacio Street",wikidata,M,Q313604,way
-"Antonio Maria Regidor Street",wikidata,M,Q12961595,way
-"Apolinario Mabini Extension",wikidata,M,Q318481,relation+way
-"Apolinario Mabini Street",wikidata,M,Q318481,way
+"Balagtas Boulevard",wikidata,M,Q983125,way
 "Claro M. Recto Street",wikidata,M,Q1095906,way
 "Elpidio Quirino Street",wikidata,M,Q319943,way
 "Francisco Balagtas Boulevard",wikidata,M,Q983125,way
-"General Antonio Luna Street",wikidata,M,Q602912,way
+"General Luna Street",wikidata,M,Q602912,way
 "Graciano Lopez Jaena Street",wikidata,M,Q3550192,way
-"Jose Burgos Street",wikidata,M,Q983553,way
 "Jose Laurel Street",wikidata,M,Q360113,way
 "José Rizal Avenue",wikidata,M,Q1500,way
 "Justice Avanceña Street",wikidata,M,Q2171453,way
@@ -27,9 +25,11 @@ name,source,gender,wikidata,type
 "Marcelo H. del Pilar Street",wikidata,M,Q312542,relation+way
 "Mariano Gomez Street",wikidata,M,Q1707398,way
 "Miguel Malvar Street",wikidata,M,Q954412,relation+way
+"P. Burgos Street",wikidata,M,Q983553,way
 "Paseo el Cid",wikidata,M,Q43958,way
 "Paseo el Cid Street",wikidata,M,Q43958,way
-"Pedro Paterno Street",wikidata,M,Q946237,way
+"Paterno Street",wikidata,M,Q946237,way
 "Ramon Magsaysay Street",wikidata,M,Q117096,way
+"Regidor Street",wikidata,M,Q12961595,way
 "Saint Francis Avenue",wikidata,M,Q676555,way
 "Sergio Osmeña Street",wikidata,M,Q319950,way

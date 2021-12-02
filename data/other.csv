@@ -28,6 +28,7 @@ name,source,gender,wikidata,type
 "Catleya Street",wikidata,,Q133733,way
 "Cordillera Street",wikidata,,Q2087864,way
 "Cordoba Street",wikidata,,Q5818,way
+"Dahlia Street",wikidata,,Q130918,way
 "Dama de Noche Street",wikidata,,Q36125,way
 "Dao Street",wikidata,,Q5304664,way
 "Diamante Street",wikidata,,Q5283,way
@@ -101,12 +102,12 @@ Gladiola,wikidata,,Q156207,way
 "Zapiro Street",wikidata,,Q127583,way
 "11th Street",,,,way
 "7UP Road",,,,way
-"A. Flores Street",,,,way
 "Adalia Street",,,,way
 "Alaminos - San Crispin Road",,,,way
 "Alaminos - San Pablo Bypass Road",,,,way
 "Alvarez Street",,,,way
 "Antonia Teodoro Drive",,,,way
+"Apolinario Mabini Extension",,,,relation
 "Archimedes P. Brion Street",,,,relation
 "Artemio Fule Street",,,,relation+way
 "Atisan Trail",,,,way
@@ -115,6 +116,7 @@ Gladiola,wikidata,,Q156207,way
 "B. Atienza Street",,,,way
 "BLISS Drive",,,,way
 Bañagale,,,,way
+"Barleta Street",,,,way
 "Batrallo Street",,,,way
 "Biglete Compound",,,,way
 "C. Balverde Street",,,,way
@@ -162,6 +164,7 @@ Bañagale,,,,way
 "First Street",,,,relation+way
 "Florentino M. Mariño Street",,,,relation
 "Flores Compound",,,,way
+"Flores Street",,,,way
 "Fule Sahagun Street",,,,way
 "G. Robles Street",,,,way
 "Gaudencio Aquino Street",,,,relation
@@ -170,7 +173,6 @@ Bañagale,,,,way
 "Guadalupe 2",,,,relation
 "Hermanos Belen Street",,,,way
 "Ilaw Compound",,,,way
-"Inocencio F. Barleta Street",,,,way
 "Jacinto Zamora Street",,,,relation
 "Jaojoco Street",,,,way
 "Japanese Village",,,,way
@@ -199,12 +201,12 @@ Mareflor,,,,way
 "NHA Santo Angel",,,,way
 "Nelson Ticzon, Sr. Street",,,,relation
 "New Trail",,,,way
+"P. Alcantara Street",,,,way
 "Pantaleona Street",,,,relation+way
 "Parkview Street",,,,way
 "Paseo de Escudero Street",,,,way
 "Pastor S. Mariño Street",,,,relation+way
 "Patay na Tubig Bridge",,,,way
-"Pedro Alcantara Street",,,,way
 "Perla Agata Street",,,,way
 "Pilar Street",,,,relation
 "Pinaglabanan Road",,,,way

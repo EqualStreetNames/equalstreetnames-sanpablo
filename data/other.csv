@@ -32,7 +32,7 @@ name,source,gender,wikidata,type
 "Dama de Noche Street",wikidata,,Q36125,way
 "Dao Street",wikidata,,Q5304664,way
 "Diamante Street",wikidata,,Q5283,way
-"Dos Castillas Street",wikidata,,Q8770442,way
+"Dos Castillas Street",wikidata,,Q1043594;Q1947581,way
 "Earth Street",wikidata,,Q2,way
 "Everglades Street",wikidata,,Q140088,way
 "Everlasting Street",wikidata,,Q159089,way
@@ -43,7 +43,7 @@ Gladiola,wikidata,,Q156207,way
 "Granate Street",wikidata,,Q41177,way
 "Guijo Street",wikidata,,Q5490546,way
 "Gumamela Street",wikidata,,Q157124,way
-"Holy Rosary Street",wikidata,,Q5885991,relation+way
+"Holy Rosary Street",wikidata,,Q132539,relation+way
 "Ilang-Ilang Street",wikidata,,Q220963,way
 "Ilang-ilang Street",wikidata,,Q220963,way
 "Ipil Street",wikidata,,Q12700996,way
@@ -61,6 +61,7 @@ Gladiola,wikidata,,Q156207,way
 "Mahogany Street",wikidata,,Q239788,way
 "Malaga Street",wikidata,,Q8851,way
 "Mars Street",wikidata,,Q111,way
+"Mayon Street",wikidata,,Q1484,way
 "Mazari Street",wikidata,,Q138285,way
 "Mercury Street",wikidata,,Q308,way
 "Molave Street",wikidata,,Q1373994,way
@@ -84,7 +85,7 @@ Gladiola,wikidata,,Q156207,way
 "Santan Street",wikidata,,Q1856114;Q2717258,way
 "Santander Street",wikidata,,Q12233,way
 "Saturn Street",wikidata,,Q193,way
-"Sierra Madre Street",wikidata,,Q24979161,way
+"Sierra Madre Street",wikidata,,Q2166028,way
 "Sunflower Street",wikidata,,Q26949,way
 "Tanguile Street",wikidata,,Q5490734,way
 "Toledo Street",wikidata,,Q5836,way
@@ -182,7 +183,7 @@ Bañagale,,,,way
 "Lauro Dizon Street",,,,relation
 "Leonila Almeda Drive",,,,way
 "Lieutenant Cosico Avenue",,,,way
-"Lt. Cosico Avenue",,,,way
+"Lily Street",,,,way
 "Lt. R. Brion Street",,,,relation
 "Lumang Kalsada",,,,way
 "M. Basa Street",,,,way
@@ -196,14 +197,13 @@ Bañagale,,,,way
 "Marcos Paulino Avenue",,,,way
 Mareflor,,,,way
 "Maximino Magcase Street",,,,way
-"Mayon Street",,,,way
 "Metropolis Avenue",,,,way
 "Miguel Leonor Street",,,,way
-"Mt. Mabilog Trail",,,,way
+"Mount Mabilog Trail",,,,way
 "NHA Santo Angel",,,,way
 "Nelson Ticzon, Sr. Street",,,,relation
-"New Trail",,,,way
 "P. Alcantara Street",,,,way
+"Pansy Street",,,,way
 "Pantaleona Street",,,,relation+way
 "Parkview Street",,,,way
 "Paseo de Escudero Street",,,,way
@@ -218,6 +218,7 @@ Mareflor,,,,way
 "Restituto Street",,,,way
 "Rodriguez Street",,,,way
 "Sabang Road",,,,way
+"Sampaloc Lake Boardwalk",,,,way
 "Sampaloc Lake Concrete Steps",,,,way
 "San Andres Street",,,,way
 "San Buenaventura - Santa Catalina Road",,,,way
@@ -227,7 +228,6 @@ Mareflor,,,,way
 "San Juan - Macampong Road",,,,way
 "San Lucas - San Buenaventura Road",,,,way
 "San Marcos - San Buenaventura Road",,,,way
-"San Pablo - Dolores Road",,,,way
 "San Pablo - Rizal - Nagcarlan Road",,,,way
 "San Pablo Spur Road",,,,way
 "San Pablo-Dolores Road",,,,way
@@ -248,10 +248,11 @@ Tawiran,,,,way
 "To Crater Swamp",,,,way
 "Tropical Park",,,,way
 "Tuding Street",,,,way
+"Tulip Street",,,,way
 "Unson Street",,,,way
 "Werner P. Schetelig Avenue",,,,way
 "Williamsburg Street",,,,way
 "Zulueta Street",,,,way
-"to Mt. Cristobal",,,,way
-"to Mt. Cristobal Northeast Viewpoint",,,,way
-"to Mt. Cristobal summit;To Cristobal Summit",,,,way
+"to Mount Cristobal",,,,way
+"to Mount Cristobal Northeast Viewpoint",,,,way
+"to Mount Cristobal summit",,,,way

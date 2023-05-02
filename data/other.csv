@@ -4,6 +4,7 @@ name,source,gender,wikidata,type
 "Alicante Street",wikidata,,Q11959,way
 "Amargo Street",wikidata,,Q2712492,way
 "Andalucia Street",wikidata,,Q5783,way
+"Anemone Street",wikidata,,Q158286,way
 "Apitong Street",wikidata,,Q1634902,way
 "Apo Street",wikidata,,Q455963,way
 "Aquamarine Street",wikidata,,Q58959,way
@@ -28,12 +29,14 @@ name,source,gender,wikidata,type
 "Catleya Street",wikidata,,Q133733,way
 "Cordillera Street",wikidata,,Q2087864,way
 "Cordoba Street",wikidata,,Q5818,way
+"Daffodil Street",wikidata,,Q29465,way
 "Dahlia Street",wikidata,,Q130918,way
 "Dama de Noche Street",wikidata,,Q36125,way
 "Dao Street",wikidata,,Q5304664,way
 "Diamante Street",wikidata,,Q5283,way
 "Dos Castillas Street",wikidata,,Q1043594;Q1947581,way
 "Earth Street",wikidata,,Q2,way
+"Eglantine Street",wikidata,,Q15546415,way
 "Everglades Street",wikidata,,Q140088,way
 "Everlasting Street",wikidata,,Q159089,way
 "Foxtail Street",wikidata,,Q13091280,way
@@ -50,6 +53,7 @@ Gladiola,wikidata,,Q156207,way
 "Ipil-Ipil Street",wikidata,,Q35905,way
 "Isarog Street",wikidata,,Q1673747,way
 "Jasmin Street",wikidata,,Q82014,way
+"Jasmine Street",wikidata,,Q82014,way
 "Jupiter Street",wikidata,,Q319,way
 "Kabayanihan Street",wikidata,,Q11709673,way
 "Kamagong Street",wikidata,,Q571266,way
@@ -58,6 +62,7 @@ Gladiola,wikidata,,Q156207,way
 "Katarungan Street",wikidata,,Q5167661,way
 "Keythatch Street",wikidata,,Q13426968,way
 "Laguna Avenue",wikidata,,Q13840,way
+"Lily Street",wikidata,,Q40458125,way
 "Mahogany Street",wikidata,,Q239788,way
 "Malaga Street",wikidata,,Q8851,way
 "Mars Street",wikidata,,Q111,way
@@ -75,8 +80,10 @@ Gladiola,wikidata,,Q156207,way
 "Pacaya Street",wikidata,,Q15296487,way
 "Pag-asa Street",wikidata,,Q190507,way
 "Pagkakaisa Street",wikidata,,Q21083885,way
+"Pansy Street",wikidata,,Q12861234,way
 "Pasopaya Street",wikidata,,Q3620498,way
 "Paurotis Street",wikidata,,Q140088,way
+"Peony Street",wikidata,,Q147105,way
 "Pindo Street",wikidata,,Q2705848,way
 "Pygmy Palm Street",wikidata,,Q164113,way
 "Rosal Street",wikidata,,Q34687,way
@@ -91,6 +98,7 @@ Gladiola,wikidata,,Q156207,way
 "Toledo Street",wikidata,,Q5836,way
 "Topacio Street",wikidata,,Q134985,way
 "Trece Martirez Street",wikidata,,Q4120230,way
+"Tulip Street",wikidata,,Q30345409,way
 "Turquiza Street",wikidata,,Q165254,way
 "Uranus Street",wikidata,,Q324,way
 "Valencia Street",wikidata,,Q8818,way
@@ -201,7 +209,6 @@ Lavender,,,,way
 "Lieutenant Cosico Avenue",,,,way
 Lilac,,,,way
 "Lily Drive",,,,way
-"Lily Street",,,,way
 "Lt. R. Brion Street",,,,relation
 "Lumang Kalsada",,,,way
 "M. Basa Street",,,,way
@@ -223,7 +230,6 @@ Mareflor,,,,way
 "NHA Santo Angel",,,,way
 "Nelson Ticzon, Sr. Street",,,,relation
 "P. Alcantara Street",,,,way
-"Pansy Street",,,,way
 "Pantaleona Street",,,,relation+way
 "Parkview Street",,,,way
 "Paseo de Escudero Street",,,,way
@@ -271,7 +277,6 @@ Tiffany,,,,way
 "Tropical Park",,,,way
 "Tuding Street",,,,way
 Tulip,,,,way
-"Tulip Street",,,,way
 "Unson Street",,,,way
 Verbena,,,,way
 "Werner P. Schetelig Avenue",,,,way

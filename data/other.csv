@@ -21,7 +21,7 @@ name,source,gender,wikidata,type
 "Buccaneer Street",wikidata,,Q7255286,way
 "Caballero Street",wikidata,,Q1428973,way
 "Cadena de Amor Street",wikidata,,Q311521,way
-"Camia Street",wikidata,,Q1994229,way
+"Camia Street",wikidata,,Q15328782;Q1994229,way
 "Canossa Lane",wikidata,,Q12963144,relation+way
 "Carmelite Road",wikidata,,Q186277,way
 "Carnation Street",wikidata,,Q158984,way
@@ -41,7 +41,7 @@ name,source,gender,wikidata,type
 "Everlasting Street",wikidata,,Q159089,way
 "Foxtail Street",wikidata,,Q13091280,way
 "Galicia Street",wikidata,,Q3908,way
-Gladiola,wikidata,,Q156207,way
+"Gladiola Street",wikidata,,Q156207,way
 "Granada Street",wikidata,,Q8810,way
 "Granate Street",wikidata,,Q41177,way
 "Guijo Street",wikidata,,Q5490546,way
@@ -111,6 +111,8 @@ Gladiola,wikidata,,Q156207,way
 "Zapiro Street",wikidata,,Q127583,way
 "11th Street",,,,way
 "7UP Road",,,,way
+"A. Fule Street",,,,way
+Acacia,,,,way
 "Adalia Street",,,,way
 "Alaminos - San Crispin Road",,,,way
 "Alaminos-San Pablo Bypass Road",,,,way
@@ -119,7 +121,7 @@ Anemone,,,,way
 "Antonia Teodoro Drive",,,,way
 "Apolinario Mabini Extension",,,,relation
 "Archimedes P. Brion Street",,,,relation
-"Artemio Fule Street",,,,relation+way
+"Artemio Fule Street",,,,relation
 Aster,,,,way
 "Atisan Trail",,,,way
 Azalea,,,,way
@@ -190,6 +192,7 @@ Freesia,,,,way
 Gardenia,,,,way
 "Gaudencio Aquino Street",,,,relation
 Gazania,,,,way
+Gladiola,,,,way
 "Green Valley Avenue",,,,way
 "Guadalupe 1",,,,relation
 "Guadalupe 2",,,,relation
@@ -203,6 +206,7 @@ Hibiscus,,,,way
 Jasmin,,,,way
 "Jubilee Courtyard",,,,relation
 "Justice Santos Street",,,,way
+Kamagong,,,,way
 "Lauro Dizon Street",,,,relation
 Lavender,,,,way
 "Leonila Almeda Drive",,,,way
@@ -212,21 +216,24 @@ Lilac,,,,way
 "Lt. R. Brion Street",,,,relation
 "Lumang Kalsada",,,,way
 "M. Basa Street",,,,way
+"M. Brion Street",,,,way
 "Macasaet Avenue",,,,way
 "Maglalang Street",,,,way
 Magnolia,,,,way
 "Maharlika Highway",,,,way
 "Major Eseo Street",,,,way
 "Marasigan Street",,,,relation+way
+"Marcelo H. del Pilar Street",,,,relation
 "Marcial Alimario Street",,,,way
-"Marciano Brion Street",,,,way
 "Marcos Paulino Avenue",,,,way
 Mareflor,,,,way
 "Maximino Magcase Street",,,,way
 "Metropolis Avenue",,,,way
 "Miguel Leonor Street",,,,way
 "Mount Mabilog Trail",,,,way
+Mulawin,,,,way
 "NHA Santo Angel",,,,way
+Narra,,,,way
 "Nelson Ticzon, Sr. Street",,,,relation
 "P. Alcantara Street",,,,way
 "Pantaleona Street",,,,relation+way
@@ -280,6 +287,7 @@ Tulip,,,,way
 Verbena,,,,way
 "Werner P. Schetelig Avenue",,,,way
 "Williamsburg Street",,,,way
+Yakal,,,,way
 Zinnia,,,,way
 "Zulueta Street",,,,way
 "to Mount Cristobal",,,,way

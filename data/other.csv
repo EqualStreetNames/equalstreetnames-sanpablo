@@ -20,7 +20,9 @@ name,source,gender,wikidata,type
 "Bolingbrook Street",wikidata,,Q891359,way
 "Bongavilla Street",wikidata,,Q156996,way
 "Buccaneer Street",wikidata,,Q7255286,way
+"Buttercup Street",wikidata,,Q146130,way
 "Caballero Street",wikidata,,Q1428973,way
+"Cactus Street",wikidata,,Q14560,way
 "Cadena de Amor Street",wikidata,,Q311521,way
 "Camia Street",wikidata,,Q15328782;Q1994229,way
 "Canossa Lane",wikidata,,Q12963144,relation+way
@@ -30,6 +32,8 @@ name,source,gender,wikidata,type
 "Catleya Street",wikidata,,Q133733,way
 "Cordillera Street",wikidata,,Q2087864,way
 "Cordoba Street",wikidata,,Q5818,way
+"Crocus Street",wikidata,,Q157806,way
+"Cyclamen Street",wikidata,,Q147295,way
 "Daffodil Street",wikidata,,Q29465,way
 "Dahlia Street",wikidata,,Q130918,way
 "Dama de Noche Street",wikidata,,Q36125,way
@@ -48,10 +52,13 @@ name,source,gender,wikidata,type
 "Guijo Street",wikidata,,Q5490546,way
 "Gumamela Street",wikidata,,Q157124,way
 "Holy Rosary Street",wikidata,,Q132539,relation+way
+"Hop Street",wikidata,,Q104212,way
+"Hyacinth Street",wikidata,,Q4968112,way
 "Ilang-Ilang Street",wikidata,,Q220963,way
 "Ilang-ilang Street",wikidata,,Q220963,way
 "Ipil Street",wikidata,,Q12700996,way
 "Ipil-Ipil Street",wikidata,,Q35905,way
+"Iris Street",wikidata,,Q156901,way
 "Isarog Street",wikidata,,Q1673747,way
 "Jasmin Street",wikidata,,Q82014,way
 "Jasmine Street",wikidata,,Q82014,way
@@ -64,18 +71,21 @@ name,source,gender,wikidata,type
 "Keythatch Street",wikidata,,Q13426968,way
 "Laguna Avenue",wikidata,,Q13840,way
 "Lily Street",wikidata,,Q40458125,way
+"Lotus Street",wikidata,,Q16528,way
 "Mahogany Street",wikidata,,Q239788,way
 "Malaga Street",wikidata,,Q8851,way
 "Mars Street",wikidata,,Q111,way
 "Mayon Street",wikidata,,Q1484,way
 "Mazari Street",wikidata,,Q138285,way
 "Mercury Street",wikidata,,Q308,way
+"Mimosa Street",wikidata,,Q160110,way
 "Molave Street",wikidata,,Q1373994,way
 "Molawin Street",wikidata,,Q1373994,way
 "Moon Street",wikidata,,Q405,way
 "Mulawin Street",wikidata,,Q1373994,way
 "Narra Street",wikidata,,Q979014,way
 "Neptune Street",wikidata,,Q332,way
+"Orchid Street",wikidata,,Q142269,way
 "Oviendo Street",wikidata,,Q14317,way
 "PNR Compound",wikidata,,Q1637464,way
 "Pacaya Street",wikidata,,Q15296487,way
@@ -111,7 +121,19 @@ name,source,gender,wikidata,type
 "Waling-waling Street",wikidata,,Q15188539,way
 "Yakal Street",wikidata,,Q3547457,way
 "Zapiro Street",wikidata,,Q127583,way
+"10th Street",,,,way
 "11th Street",,,,way
+"12th Street",,,,way
+"13th Street",,,,way
+"1st Street",,,,way
+"2nd Street",,,,way
+"3rd Street",,,,way
+"4th Street",,,,way
+"5th Street",,,,way
+"6th Street",,,,way
+"7th Street",,,,way
+"8th Street",,,,way
+"9th Street",,,,way
 "A. Flores Street",,,,way
 "A. Fule Street",,,,way
 Acacia,,,,way
@@ -119,14 +141,13 @@ Acacia,,,,way
 "Alaminos - San Crispin Road",,,,way
 "Alaminos-San Pablo Bypass Road",,,,way
 "Alvarez Street",,,,way
-Anemone,,,,way
 "Antonia Teodoro Drive",,,,way
 "Apolinario Mabini Extension",,,,relation
 "Archimedes P. Brion Street",,,,relation
 "Artemio Fule Street",,,,relation
-Aster,,,,way
+"Aster Street",,,,way
 "Atisan Trail",,,,way
-Azalea,,,,way
+"Azalea Street",,,,way
 "Azcarate Circle",,,,relation+way
 "Azores Avenue",,,,way
 "B. Atienza Street",,,,way
@@ -134,28 +155,28 @@ Azalea,,,,way
 Bañagale,,,,way
 "Barleta Street",,,,way
 "Batrallo Street",,,,way
-Begonia,,,,way
+"Begonia Street",,,,way
 "Biglete Compound",,,,way
 "C. Balverde Street",,,,way
 "C. Peñaloza Street",,,,way
 "Calauan - San Pablo Road",,,,way
-"Calla Lily",,,,way
+"Calla Lily Street",,,,way
+"Camellia Street",,,,way
 "Carlsburg Street",,,,way
-Carnation,,,,way
 "Carreon Street",,,,way
 "Cipriano B. Colago Avenue",,,,way
 "Cipriano B. Colago Avenue Extension",,,,way
-Clover,,,,way
+"Clover Street",,,,way
 "Concepcion Street",,,,way
 "Conrado Street",,,,way
 "Cornista Street",,,,way
-Cosmos,,,,way
+"Cosmos Street",,,,way
 "Crispin T. Calabia Avenue",,,,way
 "Cristeto Brion Extension",,,,way
 "Cristeto Brion Street",,,,way
 "Cristobal Traverse Path",,,,way
 "Dagatan Boulevard",,,,way
-Daisy,,,,way
+"Daisy Street",,,,way
 "Deangkinay Street",,,,relation
 "Dionglay Street",,,,way
 "Dizon Street",,,,way
@@ -188,32 +209,30 @@ Daisy,,,,way
 "Florentino M. Mariño Street",,,,relation
 "Flores Compound",,,,way
 "Flores Street",,,,way
-Freesia,,,,way
+"Freesia Street",,,,way
 "Fule Sahagun Street",,,,way
 "G. Robles Street",,,,way
-Gardenia,,,,way
+"Gardenia Street",,,,way
 "Gaudencio Aquino Street",,,,relation
-Gazania,,,,way
-Gladiola,,,,way
+"Gazania Street",,,,way
 "Green Valley Avenue",,,,way
 "Guadalupe 1",,,,relation
 "Guadalupe 2",,,,relation
-Heather,,,,way
+"Heather Street",,,,way
 "Hermanos Belen Street",,,,way
-Hibiscus,,,,way
+"Hibiscus Street",,,,way
 "Ilaw Compound",,,,way
 "Jacinto Zamora Street",,,,relation
 "Jaojoco Street",,,,way
 "Japanese Village",,,,way
-Jasmin,,,,way
 "Jubilee Courtyard",,,,relation
 "Justice Santos Street",,,,way
 Kamagong,,,,way
 "Lauro Dizon Street",,,,relation
-Lavender,,,,way
+"Lavender Street",,,,way
 "Leonila Almeda Drive",,,,way
 "Lieutenant Cosico Avenue",,,,way
-Lilac,,,,way
+"Lilac Street",,,,way
 "Lily Drive",,,,way
 "Lt. R. Brion Street",,,,relation
 "Lumang Kalsada",,,,way
@@ -221,7 +240,7 @@ Lilac,,,,way
 "M. Brion Street",,,,way
 "Macasaet Avenue",,,,way
 "Maglalang Street",,,,way
-Magnolia,,,,way
+"Magnolia Street",,,,way
 "Maharlika Highway",,,,way
 "Major Eseo Street",,,,way
 "Marasigan Street",,,,relation+way
@@ -250,9 +269,8 @@ Narra,,,,way
 "Q. Suarez Street",,,,way
 "Restituto Street",,,,way
 "Rodriguez Street",,,,way
-Rose,,,,way
 "Sabang Road",,,,way
-Salvia,,,,way
+"Salvia Street",,,,way
 "Sampaloc Lake Concrete Steps",,,,way
 "San Andres Street",,,,way
 "San Buenaventura - Santa Catalina Road",,,,way
@@ -276,23 +294,23 @@ Salvia,,,,way
 "Sitio Baloc Road",,,,way
 "Sitio Ilaya",,,,way
 "Sitio Upper Malamig",,,,way
+"Snowdrop Street",,,,way
 "South Luzon Expressway",,,,way
-"Sun Flower",,,,way
+"Sun Flower Street",,,,way
 "T. Azucena Street",,,,way
 Tawiran,,,,way
 "Third Street",,,,relation
-Tiffany,,,,way
+"Tiffany Street",,,,way
 "To Crater Swamp",,,,way
 "Tropical Park",,,,way
 "Tuding Street",,,,way
-Tulip,,,,way
 "Unson Street",,,,way
-Verbena,,,,way
+"Verbena Street",,,,way
 "Villongco Street",,,,way
 "Werner P. Schetelig Avenue",,,,way
 "Williamsburg Street",,,,way
 Yakal,,,,way
-Zinnia,,,,way
+"Zinnia Street",,,,way
 "Zulueta Street",,,,way
 "to Mount Cristobal",,,,way
 "to Mount Cristobal Northeast Viewpoint",,,,way

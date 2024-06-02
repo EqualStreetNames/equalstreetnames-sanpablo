@@ -73,6 +73,7 @@ name,source,gender,wikidata,type
 "Lilac Street",wikidata,,Q6565319,way
 "Lily Street",wikidata,,Q40458125,way
 "Lotus Street",wikidata,,Q16528,way
+"Maharlika Highway",wikidata,,Q1884781,way
 "Mahogany Street",wikidata,,Q239788,way
 "Malaga Street",wikidata,,Q8851,way
 "Marigold Street",wikidata,,Q147552,way
@@ -243,7 +244,6 @@ Kamagong,,,,way
 "Macasaet Avenue",,,,way
 "Maglalang Street",,,,way
 "Magnolia Street",,,,way
-"Maharlika Highway",,,,way
 "Major Eseo Street",,,,way
 "Marasigan Street",,,,relation+way
 "Marcelo H. del Pilar Street",,,,relation

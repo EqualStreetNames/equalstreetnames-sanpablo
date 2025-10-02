@@ -1,6 +1,131 @@
 name,source,gender,wikidata,type
+"7UP Road",wikidata,-,Q270059,way
+"Acacia Street",wikidata,-,Q81666,way
+"African Daisy Street",wikidata,-,Q942384,way
+"Alicante Street",wikidata,-,Q11959,way
+"Amargo Street",wikidata,-,Q2712492,way
+"Andalucia Street",wikidata,-,Q5783,way
+"Anemone Street",wikidata,-,Q158286,way
+"Apitong Street",wikidata,-,Q1634902,way
+"Apo Street",wikidata,-,Q455963,way
+"Aquamarine Street",wikidata,-,Q58959,way
+"Avenida de los Reyes Catolicos",wikidata,-,Q186851,way
+"Azucena Street",wikidata,-,Q17270998,way
+"Ban-chi Street",wikidata,-,Q15471702,way
+"Banaba Street",wikidata,-,Q1137593,way
+"Banahaw Street",wikidata,-,Q806074,way
+"Bataua Street",wikidata,-,Q2709536,way
+"Betelnut Street",wikidata,-,Q156969,way
+"Bismark Street",wikidata,-,Q13055333,way
+"Bolingbrook Street",wikidata,-,Q891359,way
+"Bongavilla Street",wikidata,-,Q156996,way
+"Buccaneer Street",wikidata,-,Q7255286,way
+"Buttercup Street",wikidata,-,Q146130,way
+"Caballero Street",wikidata,-,Q1428973,way
+"Cactus Street",wikidata,-,Q14560,way
+"Cadena de Amor Street",wikidata,-,Q311521,way
+"Camia Street",wikidata,-,Q15328782;Q1994229,way
+"Canossa Lane",wikidata,-,Q12963144,relation+way
+"Carmelite Road",wikidata,-,Q186277,way
+"Carnation Street",wikidata,-,Q158984,way
+"Catalunya Street",wikidata,-,Q5705,way
+"Catleya Street",wikidata,-,Q133733,way
+"Cordillera Street",wikidata,-,Q2087864,way
+"Cordoba Street",wikidata,-,Q5818,way
+"Crocus Street",wikidata,-,Q157806,way
+"Cyclamen Street",wikidata,-,Q147295,way
+"Daffodil Street",wikidata,-,Q29465,way
+"Dahlia Street",wikidata,-,Q130918,way
+"Dama de Noche Street",wikidata,-,Q36125,way
+"Dao Street",wikidata,-,Q5304664,way
+"Diamante Street",wikidata,-,Q5283,way
+"Dos Castillas Street",wikidata,-,Q1043594;Q1947581,way
+"Earth Street",wikidata,-,Q2,way
+"Eglantine Street",wikidata,-,Q15546415,way
+"Everglades Street",wikidata,-,Q140088,way
+"Everlasting Street",wikidata,-,Q159089,way
+"Foxtail Street",wikidata,-,Q13091280,way
+"Galicia Street",wikidata,-,Q3908,way
+"Gladiola Street",wikidata,-,Q156207,way
+"Granada Street",wikidata,-,Q8810,way
+"Granate Street",wikidata,-,Q41177,way
+"Guijo Street",wikidata,-,Q5490546,way
+"Gumamela Street",wikidata,-,Q157124,way
+"Holy Rosary Street",wikidata,-,Q132539,relation+way
+"Hop Street",wikidata,-,Q104212,way
+"Hyacinth Street",wikidata,-,Q4968112,way
+"Ilang-Ilang Street",wikidata,-,Q220963,way
+"Ilang-ilang Street",wikidata,-,Q220963,way
+"Ipil Street",wikidata,-,Q12700996,way
+"Ipil-Ipil Street",wikidata,-,Q35905,way
+"Iris Street",wikidata,-,Q156901,way
+"Isarog Street",wikidata,-,Q1673747,way
+"Jasmin Street",wikidata,-,Q82014,way
+"Jasmine Street",wikidata,-,Q82014,way
+"Jupiter Street",wikidata,-,Q319,way
+"Kabayanihan Street",wikidata,-,Q11709673,way
+"Kamagong Street",wikidata,-,Q571266,way
+"Kasipagan Street",wikidata,-,Q4464405,way
+"Katapatan Street",wikidata,-,Q1132131,way
+"Katarungan Street",wikidata,-,Q5167661,way
+"Keythatch Street",wikidata,-,Q13426968,way
+"Laguna Avenue",wikidata,-,Q13840,way
+"Lilac Street",wikidata,-,Q6565319,way
+"Lily Street",wikidata,-,Q40458125,way
+"Lotus Street",wikidata,-,Q16528,way
+"Maharlika Highway",wikidata,-,Q1884781,way
+"Mahogany Street",wikidata,-,Q239788,way
+"Malaga Street",wikidata,-,Q8851,way
+"Marigold Street",wikidata,-,Q147552,way
+"Mars Street",wikidata,-,Q111,way
+"Mayon Street",wikidata,-,Q1484,way
+"Mazari Street",wikidata,-,Q138285,way
+"Mercury Street",wikidata,-,Q308,way
+"Mimosa Street",wikidata,-,Q160110,way
+"Molave Street",wikidata,-,Q1373994,way
+"Molawin Street",wikidata,-,Q1373994,way
+"Moon Street",wikidata,-,Q405,way
+"Mulawin Street",wikidata,-,Q1373994,way
+"Narra Street",wikidata,-,Q979014,way
+"Neptune Street",wikidata,-,Q332,way
+"Orchid Street",wikidata,-,Q142269,way
+"Oviendo Street",wikidata,-,Q14317,way
+"Pacaya Street",wikidata,-,Q15296487,way
+"Pag-asa Street",wikidata,-,Q190507,way
+"Pagkakaisa Street",wikidata,-,Q21083885,way
+"Pansy Street",wikidata,-,Q12861234,way
+"Pasopaya Street",wikidata,-,Q3620498,way
+"Paurotis Street",wikidata,-,Q140088,way
+"Peony Street",wikidata,-,Q147105,way
+"Pindo Street",wikidata,-,Q2705848,way
+"Poppy Street",wikidata,-,Q967457,way
+"Pygmy Palm Street",wikidata,-,Q164113,way
+"Rosal Street",wikidata,-,Q34687,way
+"Rose Street",wikidata,-,Q34687,way
+"Sampaguita Street",wikidata,-,Q1356614,way
+"Santan Street",wikidata,-,Q1856114;Q2717258,way
+"Santander Street",wikidata,-,Q12233,way
+"Saturn Street",wikidata,-,Q193,way
+"Sierra Madre Street",wikidata,-,Q2166028,way
+"Sunflower Street",wikidata,-,Q26949,way
+"Tanguile Street",wikidata,-,Q5490734,way
+"Toledo Street",wikidata,-,Q5836,way
+"Topacio Street",wikidata,-,Q134985,way
+"Trece Martirez Street",wikidata,-,Q4120230,way
+"Tulip Street",wikidata,-,Q30345409,way
+"Turquiza Street",wikidata,-,Q165254,way
+"Uranus Street",wikidata,-,Q324,way
+"Valencia Street",wikidata,-,Q8818,way
+"Valladovid Street",wikidata,-,Q8356,way
+"Venus Street",wikidata,-,Q313,way
+"Violeta Street",wikidata,-,Q108684,way
+"Waling Waling Street",wikidata,-,Q15188539,way
+"Waling-waling Street",wikidata,-,Q15188539,way
+"Yakal Street",wikidata,-,Q3547457,way
+"Zapiro Street",wikidata,-,Q127583,way
+"A. Mabini Street",wikidata,?,Q318481;Q4120230,way
+"Doña Aurora Street",wikidata,?,Q1637464;Q3544720,way
 "Doña Alicia Street",wikidata,F,Q29598701,way
-"Doña Aurora Street",wikidata,F,Q1637464;Q3544720,way
 "Doña Esperanza Street",wikidata,F,Q5398916,way
 "Doña Evangelina Street",wikidata,F,Q5415112,way
 "Doña Leonila Street",wikidata,F,Q3547438,way
@@ -8,7 +133,6 @@ name,source,gender,wikidata,type
 "Doña Pacencia Street",wikidata,F,Q7121931,way
 "Doña Trinidad Street",wikidata,F,Q7842403,way
 "A. Bonifacio Street",wikidata,M,Q313604,way
-"A. Mabini Street",wikidata,M,Q318481;Q4120230,way
 "Balagtas Boulevard",wikidata,M,Q983125,way
 "Claro M. Recto Street",wikidata,M,Q1095906,way
 "Elpidio Quirino Street",wikidata,M,Q319943,way

@@ -123,9 +123,10 @@ name,source,gender,wikidata,type
 "Waling-waling Street",wikidata,-,Q15188539,way
 "Yakal Street",wikidata,-,Q3547457,way
 "Zapiro Street",wikidata,-,Q127583,way
-"A. Mabini Street",wikidata,?,Q318481;Q4120230,way
-"Doña Aurora Street",wikidata,?,Q1637464;Q3544720,way
+"A. Mabini Street",wikidata,?,Q318481;Q4120230,relation+way
+"PNR Compound Street",wikidata,?,Q1637464;Q3544720,way
 "Doña Alicia Street",wikidata,F,Q29598701,way
+"Doña Aurora Street",wikidata,F,Q3544720,way
 "Doña Esperanza Street",wikidata,F,Q5398916,way
 "Doña Evangelina Street",wikidata,F,Q5415112,way
 "Doña Leonila Street",wikidata,F,Q3547438,way
@@ -136,10 +137,8 @@ name,source,gender,wikidata,type
 "Balagtas Boulevard",wikidata,M,Q983125,way
 "Claro M. Recto Street",wikidata,M,Q1095906,way
 "Elpidio Quirino Street",wikidata,M,Q319943,way
-"Francisco Balagtas Boulevard",wikidata,M,Q983125,way
 "General Luna Street",wikidata,M,Q602912,way
 "Jose Laurel Street",wikidata,M,Q360113,way
-"José Rizal Avenue",wikidata,M,Q1500,way
 "Justice Avanceña Street",wikidata,M,Q2171453,way
 "Justice Bengzon Street",wikidata,M,Q449931,way
 "Justice Mapa Street",wikidata,M,Q2406489,way

@@ -20,7 +20,6 @@ Acacia,,,,way
 "Alaminos-San Pablo Bypass Road",,,,way
 "Alvarez Street",,,,way
 "Antonia Teodoro Drive",,,,way
-"Apolinario Mabini Extension",,,,relation
 "Archimedes P. Brion Street",,,,relation
 "Artemio Fule Street",,,,relation
 "Aster Street",,,,way
@@ -52,7 +51,6 @@ Bañagale,,,,way
 "Crispin Calabia Avenue",,,,way
 "Cristeto Brion Extension",,,,way
 "Cristeto Brion Street",,,,way
-"Cristobal Traverse Path",,,,way
 "Dagatan Boulevard",,,,way
 "Daisy Street",,,,way
 "Deangkinay Street",,,,relation
@@ -103,7 +101,6 @@ Hampton,,,,way
 "Hibiscus Street",,,,way
 "Hilario Batralo Street",,,,way
 "Ilaw Compound",,,,way
-"Jacinto Zamora Street",,,,relation
 "Jaojoco Street",,,,way
 "Japanese Village",,,,way
 "Jubilee Courtyard",,,,relation
@@ -113,8 +110,8 @@ Kamagong,,,,way
 "Lavender Street",,,,way
 "Leonila Almeda Drive",,,,way
 "Lieutenant Cosico Avenue",,,,way
+"Lieutenant R. Brion Street",,,,relation
 "Lily Drive",,,,way
-"Lt. R. Brion Street",,,,relation
 "Lumang Kalsada",,,,way
 "M. Basa Street",,,,way
 "M. Brion Street",,,,way
@@ -137,6 +134,7 @@ Mulawin,,,,way
 Narra,,,,way
 "Nelson Ticzon Sr. Street",,,,relation
 "P. Alcantara Street",,,,way
+"P. Zamora Street",,,,relation
 "Pantaleona Street",,,,relation+way
 "Parkview Street",,,,way
 "Paseo de Escudero Street",,,,way
@@ -181,7 +179,6 @@ Narra,,,,way
 Tawiran,,,,way
 "Third Street",,,,relation
 "Tiffany Street",,,,way
-"To Crater Swamp",,,,way
 "Tropical Park",,,,way
 "Tuding Street",,,,way
 "Unson Street",,,,way
@@ -192,6 +189,3 @@ Tawiran,,,,way
 Yakal,,,,way
 "Zinnia Street",,,,way
 "Zulueta Street",,,,way
-"to Mount Cristobal",,,,way
-"to Mount Cristobal Northeast Viewpoint",,,,way
-"to Mount Cristobal summit",,,,way

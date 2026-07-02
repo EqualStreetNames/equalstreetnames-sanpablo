@@ -14,10 +14,10 @@ name,source,gender,wikidata,type
 "9th Street",,,,way
 "A. Flores Street",,,,way
 "A. Fule Street",,,,way
-Acacia,,,,way
 "Adalia Street",,,,way
 "Alaminos - San Crispin Road",,,,way
 "Alaminos-San Pablo Bypass Road",,,,way
+"Alejandra Street",,,,way
 "Alvarez Street",,,,way
 "Antonia Teodoro Drive",,,,way
 "Archimedes P. Brion Street",,,,relation
@@ -52,7 +52,6 @@ Bañagale,,,,way
 "Cristeto Brion Extension",,,,way
 "Cristeto Brion Street",,,,way
 "Dagatan Boulevard",,,,way
-"Daisy Street",,,,way
 "Deangkinay Street",,,,relation
 "Dionglay Street",,,,way
 "Dizon Street",,,,way
@@ -106,7 +105,6 @@ Hampton,,,,way
 "Jubilee Courtyard",,,,relation
 "Justice Santos Street",,,,way
 "Kalye Onse",,,,way
-Kamagong,,,,way
 "Lauro Dizon Street",,,,relation
 "Lavender Street",,,,way
 "Leonila Almeda Drive",,,,way
@@ -130,9 +128,6 @@ Kamagong,,,,way
 "Metropolis Avenue",,,,way
 "Miguel Leonor Street",,,,way
 "Mount Mabilog Trail",,,,way
-Mulawin,,,,way
-"NHA Santo Angel",,,,way
-Narra,,,,way
 "Nelson Ticzon Sr. Street",,,,relation
 "P. Alcantara Street",,,,way
 "P. Zamora Street",,,,relation
@@ -147,6 +142,7 @@ Narra,,,,way
 "Potenciano Cabrera Street",,,,way
 "Q. Suarez Street",,,,way
 "Restituto Street",,,,way
+"Ricarte Street",,,,way
 "Richwood Park Village",,,,relation
 "Rodriguez Street",,,,way
 "Sabang Road",,,,way
@@ -169,15 +165,13 @@ Narra,,,,way
 "Santo Angel-San Lorenzo Road",,,,way
 "Second Street",,,,relation
 "Sergeant Luis de Roma Street",,,,way
-"Sitio Amogis",,,,way
 "Sitio Baloc Road",,,,way
-"Sitio Ilaya",,,,way
 "Sitio Upper Malamig",,,,way
+"Sixta Street",,,,way
 "Snowdrop Street",,,,way
 "South Luzon Expressway",,,,way
 "Sun Flower Street",,,,way
 "T. Azucena Street",,,,way
-Tawiran,,,,way
 "Third Street",,,,relation
 "Tiffany Street",,,,way
 "Tropical Park",,,,way
@@ -187,6 +181,5 @@ Tawiran,,,,way
 "Villongco Street",,,,way
 "Werner P. Schetelig Avenue",,,,way
 "Williamsburg Street",,,,way
-Yakal,,,,way
 "Zinnia Street",,,,way
 "Zulueta Street",,,,way
